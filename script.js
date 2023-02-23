@@ -1,5 +1,5 @@
 function show() {
-    document.getElementById("name").innerHTML = "Christian Ortiz"
+    document.getElementById("name").innerHTML = "Amiel solmerano"
     var inputVal = document.getElementById("grade_sec").value;
     if(inputVal === "12-ICT") {
         document.getElementById("ICT").style.display = "table";
